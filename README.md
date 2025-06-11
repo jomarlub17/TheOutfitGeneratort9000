@@ -1,4 +1,4 @@
-# Wardrobe AI Project
+# Wardrobe Project
 
 ## Project Description
 
