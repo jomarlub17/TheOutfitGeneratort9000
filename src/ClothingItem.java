@@ -12,7 +12,7 @@ public class ClothingItem {
         this.season = season;
         this.isClean = true;
     }
-
+    //setters
     public void setType(String type) {
         this.type = type;
     }
@@ -25,6 +25,20 @@ public class ClothingItem {
     }
     public void setSeason(String season) {
         this.season = season;
+    }
+
+    //getters
+    public String getType() {
+        return this.type;
+    }
+    public String getColor() {
+        return this.color;
+    }
+    public String getMaterial() {
+        return this.material;
+    }
+    public String getSeason() {
+        return this.season;
     }
 }
  

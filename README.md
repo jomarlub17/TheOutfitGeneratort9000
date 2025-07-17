@@ -15,15 +15,15 @@ A Java Based Backend Command line Wardrobe manager and outfit Recommender.
 ## Assignments
 
 ### Assignment 1 - Model the ClothingItem Class
-- [ ] Create a `ClothingItem` class with fields:
+- [x] Create a `ClothingItem` class with fields:
   - Name
   - Type (Top, Bottom, Outerwear, etc.)
   - Color
   - Season
   - Occasion
   - Material
-  - Size
-- [ ] Create getters/setters and constructors.
+  - Size// assume the users size is constant.
+- [x] Create getters/setters and constructors.
 
 ### Assignment 2 - Create the Wardrobe Collection
 - [ ] Create a collection to store multiple clothing items.
