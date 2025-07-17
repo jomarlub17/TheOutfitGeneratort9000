@@ -15,7 +15,7 @@ A Java Based Backend Command line Wardrobe manager and outfit Recommender.
 ## Assignments
 
 ### Assignment 1 - Model the ClothingItem Class
-- [ ] Create a `ClothingItem` class with fields:
+- [x] Create a `ClothingItem` class with fields:
   - Name
   - Type (Top, Bottom, Outerwear, etc.)
   - Color
