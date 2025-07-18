@@ -12,6 +12,11 @@ public class ClothingItem {
         this.season = season;
         this.isClean = true;
     }
+
+    public ClothingItem() {
+        //default constructor
+    }
+
     //setters
     public void setType(String type) {
         this.type = type;
