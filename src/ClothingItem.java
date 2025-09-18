@@ -39,9 +39,7 @@ public class ClothingItem {
     public String getColor() {
         return this.color;
     }
-    public String getMaterial() {
-        return this.material;
-    }
+    public String getMaterial() {return this.material;}
     public String getSeason() {
         return this.season;
     }
