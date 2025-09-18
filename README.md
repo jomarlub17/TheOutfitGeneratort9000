@@ -12,7 +12,9 @@ A Java Based Backend Command line Wardrobe manager and outfit Recommender.
 
 ---
 
-## Assignments
+## Assignments 0 Miscellaneous
+- [x] Create sample clothing item into the list
+- [x] learned that an ArrayList can have an object as its type
 
 ### Assignment 1 - Model the ClothingItem Class
 - [x] Create a `ClothingItem` class with fields:
