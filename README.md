@@ -1,4 +1,4 @@
-# Wardrobe Project
+# Java Backend Outfit Generator Project
 
 ## Project Description
 
@@ -45,11 +45,11 @@ A Java Based Backend Command line Wardrobe manager and outfit Recommender.
   - List formal clothes
   - List clothes by color
 
-### Assignment 4 - Random Outfit Generator
+### Assignment  - Random Outfit Generator
 - [ ] Write logic to pick a random outfit combination.
 - [ ] Handle missing items gracefully.
 
-### Assignment 5 - File Storage
+### Assignment  - File Storage
 - [ ] Save wardrobe data to a file.
 - [ ] Load data from file on startup.
 
