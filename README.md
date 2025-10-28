@@ -26,14 +26,18 @@ A Java Based Backend Command line Wardrobe manager and outfit Recommender.
 - [x] Create getters/setters and constructors.
 
 ### Assignment 2 - Create the Wardrobe Collection
-- [ ] Create a collection to store multiple clothing items.
-- [ ] Add at least 10 sample clothing items.
+- [x] Create a collection to store multiple clothing items.
+- [x] Add at least 2 sample clothing items.
 
-### Task 2.5 - Create an add function
-- [ ] Create a method to add clothing items.
+### Assignment 3 -  Store Items in a file
+- [x] Create a File
+- [ ] Link the ArrayList to the file
+
+### Task 3 - Create an add function
+- [] Create a method to add clothing items.
   - clothing items are added to a file
 
-### Assignment 3 - Filtering
+### Assignment  - Filtering
 - [ ] Implement methods to:
   - List summer clothes
   - List formal clothes
